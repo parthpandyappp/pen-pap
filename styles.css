@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
 
+@import url("./pages/styles/cart.css");
+
 * {
   font-family: "Poppins", sans-serif;
   --color-primary: rgb(255, 86, 120);
@@ -88,6 +90,11 @@ nav {
 .btn-secondary {
   border: 1px solid var(--color-primary);
   color: var(--color-primary);
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
 }
 
 .inline-list {
