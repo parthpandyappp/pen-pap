@@ -1,9 +1,6 @@
 .cart-container {
   display: flex;
-  /* border: 2px solid var(--color-primary); */
-  /* background-color: antiquewhite; */
   gap: 5rem;
-  /* width: 100%; */
 }
 
 .cart-products {
@@ -35,7 +32,6 @@
 
 .product-quantity {
   display: flex;
-  /* width: fit-content; */
   justify-content: center;
   width: 100%;
   margin-bottom: 0.6rem;
