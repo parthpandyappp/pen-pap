@@ -1,9 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
 
+/* Importing stylesheet from cart.css */
+@import url("./pages/styles/cart.css");
+
 /* Importing stylesheet from login.css */
 @import url("./pages/styles/login.css");
 
-/* Importing stylesheet from login.css */
+/* Importing stylesheet from wishlist.css */
 @import url("./pages/styles/wishlist.css");
 
 * {
