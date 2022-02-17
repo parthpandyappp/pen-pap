@@ -6,6 +6,8 @@
 /* Importing stylesheet from login.css */
 @import url("./pages/styles/login.css");
 
+/* Importing stylesheet from wishlist.css */
+@import url("./pages/styles/wishlist.css");
 
 * {
   font-family: "Poppins", sans-serif;
@@ -120,6 +122,7 @@ nav {
 }
 .container {
   display: flex;
+  gap: 1rem;
   align-items: center;
   justify-content: center;
   margin-top: 5rem;
