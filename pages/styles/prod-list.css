@@ -41,7 +41,6 @@
 .product-list {
   display: flex;
   flex-wrap: wrap;
-  /* width: 60%; */
   align-self: flex-start;
   gap: 1rem;
   align-items: center;
