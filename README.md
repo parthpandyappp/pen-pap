@@ -1,4 +1,6 @@
 # pen-pap ✨
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50ad27c4-18c0-4c80-b9a9-68dbb8ef1714/deploy-status)](https://app.netlify.com/sites/penandpap/deploys)
+
 Looking for Office stationery or School stationery online? Browse a wide range of stationery items at the online stationery store. ✍️
 
 ### To know 🎯
