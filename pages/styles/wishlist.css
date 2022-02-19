@@ -14,7 +14,7 @@
 .container .wishlist-product {
   display: flex;
   align-items: center;
-  width: 25rem;
+  width: 20rem;
   padding: 1rem;
   gap: 1rem;
   border: 2px solid var(--color-primary);
@@ -33,6 +33,7 @@
 
 .product-card-heart {
   display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 

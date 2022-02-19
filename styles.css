@@ -6,6 +6,10 @@
 /* Importing stylesheet from login.css */
 @import url("./pages/styles/login.css");
 
+
+/* Importing stylesheet from login.css */
+@import url("./pages/styles/prod-list.css");
+
 /* Importing stylesheet from wishlist.css */
 @import url("./pages/styles/wishlist.css");
 
