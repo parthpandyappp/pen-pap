@@ -2,7 +2,7 @@
 Looking for Office stationery or School stationery online? Browse a wide range of stationery items at the online stationery store. ✍️
 
 ### To know 🎯
-This project is a part of an assignment in neoG'22 and right now contains the styles and markup. Stay tuned for further updates!
+This project is a part of an assignment in neoG'22 and right now contains the styles and markup. Stay tuned for further updates🍡
 
 ### Early Preview 🎯
 
